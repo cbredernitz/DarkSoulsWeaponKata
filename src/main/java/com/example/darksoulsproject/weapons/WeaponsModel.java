@@ -1,4 +1,4 @@
-package com.example.kata0.weapons;
+package com.example.darksoulsproject.weapons;
 
 import lombok.Data;
 

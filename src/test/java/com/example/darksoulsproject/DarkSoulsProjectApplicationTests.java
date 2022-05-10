@@ -1,10 +1,10 @@
-package com.example.kata0;
+package com.example.darksoulsproject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Kata0ApplicationTests {
+class DarkSoulsProjectApplicationTests {
 
 	@Test
 	void contextLoads() {
