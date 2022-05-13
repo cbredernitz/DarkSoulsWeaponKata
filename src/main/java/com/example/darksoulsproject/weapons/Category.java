@@ -1,4 +1,35 @@
 package com.example.darksoulsproject.weapons;
 
 public enum Category {
+    FISTS,
+    SMALL_SHIELDS,
+    GREATSHIELDS,
+    BOWS,
+    STAVES,
+    CHIMES,
+    PIKES,
+    GREAT_HAMMERS,
+    HALBERDS,
+    CROSSBOWS,
+    GREATSWORDS,
+    KATANAS,
+    ULTRA_GREATSWORDS,
+    STRAIGHT_SWORDS,
+    CURVED_SWORDS,
+    CURVED_GREATSWORDS,
+    DAGGERS,
+    WHIPS,
+    PYROMANCY_FLAMES,
+    NORMAL_SHIELDS,
+    TORCHES,
+    REAPERS,
+    THRUSTING_SWORDS,
+    SPEARS,
+    GREATBOWS,
+    GREATAXES,
+    CLAWS,
+    AXES,
+    TALISMANS,
+    HAMMERS
+
 }
