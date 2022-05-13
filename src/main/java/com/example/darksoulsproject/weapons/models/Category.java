@@ -1,4 +1,4 @@
-package com.example.darksoulsproject.weapons;
+package com.example.darksoulsproject.weapons.models;
 
 public enum Category {
     FISTS,
